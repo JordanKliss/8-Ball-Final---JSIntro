@@ -1,0 +1,112 @@
+@font-face{
+  font-family: "Gypsy Curse";
+  src: url("/Magic-8-Ball/Gypsy\ Curse.ttf") format("truetype");
+}
+
+body {
+  background-color: black;
+}
+#content {
+  width: 600px; 
+  margin: 0 auto; 
+  margin-top: 50px;       
+  text-align: center; 
+  font-family: 'Gypsy Curse';
+  font-size: xx-large;
+  font-weight: 100;
+  }
+   
+   div.eight-ball {
+    background-color: purple;
+    border: 1px solid black;
+    border-radius: 50%;
+    width: 450px;
+    height: 450px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+   }
+   
+   div.answer {
+    background-color: #333;
+    border: 1px solid #333;
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+    margin: 25% auto;
+   }
+   
+   h1#title {
+    text-shadow:
+    0 0 7px rgb(22, 165, 134),
+    0 0 10px rgb(54, 243, 117),
+    0 0 21px rgb(10, 199, 26),
+    0 0 20px #0fa,
+    0 0 50px #0fa,
+    0 0 50px #0fa,
+    0 0 50px #0fa,
+    0 0 50px #0fa;
+   }
+
+   p#saying {
+    text-shadow:
+    0 0 7px rgb(22, 165, 134),
+    0 0 10px rgb(54, 243, 117),
+    0 0 21px rgb(10, 199, 26),
+    0 0 20px #0fa,
+    0 0 50px #0fa,
+    0 0 50px #0fa,
+    0 0 50px #0fa,
+    0 0 50px #0fa;
+   }
+
+   p#eight {
+    margin-top: -73%;
+    font-size: 5em;
+    color: rgb(34, 255, 14);
+    text-shadow:
+    0 0 7px rgb(22, 165, 134),
+    0 0 10px rgb(54, 243, 117),
+    0 0 21px rgb(10, 199, 26),
+    0 0 20px #0fa,
+    0 0 50px #0fa,
+    0 0 50px #0fa,
+    0 0 50px #0fa,
+    0 0 50px #0fa;
+   }
+   
+   p#answer {
+    color: lightblue;
+    letter-spacing: 1px;
+    font-size:35px;
+    text-shadow:
+    0 0 7px rgb(22, 165, 134),
+    0 0 10px rgb(54, 243, 117),
+    0 0 21px rgb(10, 199, 26),
+    0 0 20px #0fa,
+    0 0 25px #0fa,
+    0 0 25px #0fa,
+    0 0 25px #0fa,
+    0 0 25px #0fa;
+   }
+   
+   #question {
+    font-family: 'Gypsy Curse';
+    margin: 20px;
+    padding: 10px;
+    width: 400px;
+    font-size:40px;
+    text-shadow:
+    0 0 7px rgb(22, 165, 134),
+    0 0 10px rgb(54, 243, 117),
+    0 0 21px rgb(10, 199, 26),
+    0 0 20px #0fa,
+    0 0 50px #0fa,
+    0 0 50px #0fa,
+    0 0 50px #0fa,
+    0 0 50px #0fa;
+   }
+   
+   #info {
+    font-size: 22px;
+   }
