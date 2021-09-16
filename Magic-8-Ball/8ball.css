@@ -1,6 +1,6 @@
 @font-face{
   font-family: "Gypsy Curse";
-  src: url("/Magic-8-Ball/Gypsy\ Curse.ttf") format("truetype");
+  src: url("./Gypsy\ Curse.ttf") format("truetype");
 }
 
 body {
