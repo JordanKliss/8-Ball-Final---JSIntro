@@ -18,12 +18,13 @@ var answers = [
 "Ask again later", 
 "Better not tell you now",
 "Cannot predict now", 
-"Concentrate and ask again",
-"LOL",
-"Why do you keep asking me this?",
+"Concentrate, ask again",
+"Hah, never",
+"I think not",
 "Not in a million years",
 "Perhaps",
 "Hard no",
+"Not sure, im tired",
 ];
 
 window.onload = function() {
