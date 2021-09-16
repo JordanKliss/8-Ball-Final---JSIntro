@@ -35,7 +35,7 @@ var question = document.getElementById("question");
 
 eightball.addEventListener("click", function() {
 if (question.value.length < 1) {
-alert('Enter a question!');
+alert('The answers you seek are just a few clicks away, enter your question to begin!');
 } else {
 eight.innerText = "";
 var num = Math.floor(Math.random() * Math.floor(answers.length));
